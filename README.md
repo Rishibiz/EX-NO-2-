@@ -1,8 +1,8 @@
 # PlayFair Cipher
 Playfair Cipher using with different key values
 
-# Reg no : 212223043005
-# Name :   Rishi chandran R
+## Reg no : 212223043005
+#@ Name :   Rishi chandran R
 
 # AIM:
 
